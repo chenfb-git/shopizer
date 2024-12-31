@@ -462,8 +462,8 @@
 
 	</dependencies>
 
-	<repositories>
-		<!-- Sonatype snapshot repo -->
+	<!--<repositories>
+		&lt;!&ndash; Sonatype snapshot repo &ndash;&gt;
 		<repository>
 			<id>oss-sonatype</id>
 			<name>oss-sonatype</name>
@@ -477,7 +477,7 @@
 			<name>Spring Releases</name>
 			<url>https://repo.spring.io/libs-release</url>
 		</repository>
-		<!-- Milestone repo -->
+		&lt;!&ndash; Milestone repo &ndash;&gt;
 		<repository>
 			<id>spring-milestone</id>
 			<name>Spring Milestone</name>
@@ -496,7 +496,7 @@
 			<name>Spring Releases</name>
 			<url>https://repo.spring.io/libs-release</url>
 		</pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories>-->
 
 	<build>
 		<plugins>
